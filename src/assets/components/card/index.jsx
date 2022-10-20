@@ -15,7 +15,7 @@ export const Card = ({ disabled, gameId, homeTeam, awayTeam, homeTeamScore, away
     onSubmit: (values) => {
       axios({
         method: 'post',
-        baseURL: import.meta.env.VITE_API_URl,
+        baseURL: import.meta.env.VITE_API_URL,
         url: '/hunches',
         headers: {
           authorization: `Bearer ${auth.acessToken}`
