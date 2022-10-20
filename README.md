@@ -34,9 +34,8 @@ Desenvolver uma aplicação Web completa. É uma aplicação para realizar apost
 
 ## Screenshots
 
-![App Screenshot](https://raw.githubusercontent.com/Ar3secchim/challenge-fullStack-CupBet/main/public/imgs/Screenshot%202022.jpg)
+![App Screenshot](https://raw.githubusercontent.com/Ar3secchim/challenge-fullStack-CupBet-web/master/public/imgs/download%20(1).png)
 
-![App Screenshot](https://raw.githubusercontent.com/Ar3secchim/challenge-fullStack-CupBet/main/public/imgs/Screenshot%202022-10-04%20154456.jpg)
 
 ## Aprendizados
 
