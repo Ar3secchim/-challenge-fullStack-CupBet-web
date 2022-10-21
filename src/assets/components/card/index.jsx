@@ -71,7 +71,7 @@ export const Card = ({ disabled, gameId, homeTeam, awayTeam, homeTeamScore, away
 
         <div className='flex flex-col gap-2 items-center'>
           <img src={`./imgs/lags/${awayTeam}.png`} />
-          <span className="uppercase md:hidden sm:flex">{homeTeam}</span>
+          <span className="uppercase md:hidden sm:flex">{awayTeam}</span>
         </div>
         <span className="uppercase sm:hidden md:flex">{awayTeam}</span>
       </form>
