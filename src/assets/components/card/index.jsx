@@ -35,7 +35,7 @@ export const Card = ({ disabled, gameId, homeTeam, awayTeam, homeTeamScore, away
 
 
   return (
-    <div className="dark:bg-slate-800 container max-w-3xl border border-gray-300 rounded-2xl text-center p-4 ;">
+    <div className="container max-w-3xl border border-gray-300 rounded-2xl text-center p-4 ;">
       <span className="text-base lg:text-xl text-gray-700 font-bold">{gameTime}</span>
 
       <form className="flex md:gap-6 justify-center items-center sm:gap-4">

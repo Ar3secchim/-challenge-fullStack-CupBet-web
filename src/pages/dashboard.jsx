@@ -57,7 +57,7 @@ export const Dashboard = () => {
 
   return (
     <>
-      <header className="bg-red-500 h-20 flex ">
+      <header className="bg-red-500 h-20 flex">
         <div className="container max-w-3xl flex items-center justify-between">
           <a href={`/${auth?.user?.username}`}>
             <Icon className="h-8" name="profile" />
