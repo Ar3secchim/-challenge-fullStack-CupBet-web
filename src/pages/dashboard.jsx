@@ -59,7 +59,6 @@ export const Dashboard = () => {
     <>
       <header className="bg-red-500 h-20 flex ">
         <div className="container max-w-3xl flex items-center justify-between">
-          <Icon className="h-12 w-max" name="logo" />
           <a href={`/${auth?.user?.username}`}>
             <Icon className="h-8" name="profile" />
           </a>
@@ -70,7 +69,7 @@ export const Dashboard = () => {
         <section className=" bg-red-500 h-40 text-white">
           <div className="pt-6 container max-w-3xl space-y-6 ">
             <span>Olá Renara!</span>
-            <h3 className="text-2xl font-bold ">Qual é o seu palpite?</h3>
+            <h3 className="text-2xl font-bold">Qual é o seu palpite?</h3>
           </div>
         </section>
 

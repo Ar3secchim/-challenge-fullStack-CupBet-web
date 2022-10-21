@@ -10,7 +10,7 @@ export function Home() {
   }
 
   return (
-    <div className="h-screen md:h-max-screen bg-red-700 text-white flex flex-col items-center">
+    <div className="md:h-screen sm:h-max bg-red-700 text-white flex flex-col items-center">
 
       <header className="my-4 flex justify-center container ">
         <Icon className="h-16 lg:h-20" name="logo" />
