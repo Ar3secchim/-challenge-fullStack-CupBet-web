@@ -1,4 +1,4 @@
-# Project CupBet
+# Project CupBet Web
 
 Desenvolver uma aplicação Web completa. É uma aplicação para realizar aposta de copa do mundo e guardar.
 O usuário faz um palpite de um determinado jogo e assim que ele sair do campo de edição essa informação é mandada para o banco de dados junto com a verificaçõa de Id do Usuario e com um token, assim possibilitanto outro usuário que não tenha um cadastro na plataforma possa vê seus palpites acessando o link do usuário.
